@@ -6,6 +6,8 @@ const dbOutput = {
         "PVC加1mm發泡板": { p: [60, 60, 65], t: "area" },
         "PVC加2mm發泡板": { p: [90, 90, 95], t: "area" },
         "PVC加3mm發泡板": { p: [102, 102, 107], t: "area" },
+        "PVC加5mm黑板": { p: [60, 60, 65], t: "area" },
+        "PVC加10mm黑板": { p: [80, 80, 85], t: "area" },
         "R膠PVC/弱黏PVC": { p: [35, 35, 40], t: "area" }, 
         "PVC/代燈片": { p: [40, 40, 45], t: "area" }, 
         "半透PVC/全透片": { p: [40, 40, 45], t: "area" },
